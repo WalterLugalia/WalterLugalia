@@ -1,53 +1,77 @@
-<h1 align="center">Hi, I'm Walter 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=160&section=header&text=%3E_%20WALTER%20LUGALIA&fontSize=42&fontColor=00FF41&fontAlignY=38&desc=Flutter%20%7C%20Dart%20%7C%20Mobile%20Engineer&descSize=18&descAlignY=60&descColor=FFFFFF" width="100%" alt="" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=550&lines=Flutter+%26+Dart+Developer;Building+Android+%26+iOS+apps;Clean+Architecture+enthusiast;Open+to+new+opportunities" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=650&height=50&lines=%24+whoami;walter_lugalia+%7C+flutter_developer;%24+cat+skills.txt;dart+%7C+flutter+%7C+clean_architecture;%24+status;open_to_new_opportunities+...;%24+_" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/walter-kifwolo-4a997426a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/17056651/walter-lugalai"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.linkedin.com/in/walter-kifwolo-4a997426a"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/17056651/walter-lugalai"><img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=00FF41" alt="Stack Overflow" /></a>
 </p>
 
 ---
 
-### 🧑‍💻 About me
+### `> cat about.md`
 
-- 📱 Flutter developer with 3+ years building cross-platform apps for Android and iOS
-- 🏗️ I use Clean Architecture with Riverpod, Bloc and Provider to keep apps scalable and maintainable
-- 🔌 I integrate REST APIs and work closely with backend developers and designers
-- 🌱 Always learning and keeping up with the latest Flutter best practices
-- 📍 Based in Nairobi, Kenya
+```bash
+root@walter:~$ whoami
+Walter Lugalia, Flutter developer
 
-### 🛠️ Tech stack
+root@walter:~$ cat profile.txt
+role        : Mobile Application Developer (Android & iOS)
+experience  : 3+ years
+architecture: Clean Architecture
+state_mgmt  : Riverpod | Bloc | Provider
+backend     : REST APIs, Firebase, Supabase
+location    : Nairobi, Kenya
+
+root@walter:~$ echo $STATUS
+Open to Flutter opportunities
+```
+
+### `> ls ./tech_stack`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,sqlite,kotlin,swift,java,py,nodejs,git,github,figma" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,sqlite,kotlin,swift,java,py,nodejs,git,github,figma&theme=dark" alt="Tech stack" />
 </p>
 
-### 🚀 Featured projects
+### `> ls ./projects`
 
-| Project | Description | Tech |
+| Project | Description | Stack |
 |---|---|---|
-| **Client learning & assessment app** (private) | Published mobile app built for a client. Reworked the app structure for better maintainability and fixed local storage issues. Code walkthrough available on request. | Flutter, Hive, REST API |
+| 🔒 **Client learning & assessment app** (private) | Published mobile app built for a client. Restructured the codebase for maintainability and fixed local storage issues. Code walkthrough available on request. | Flutter, Hive, REST API |
 | [**project_education**](https://github.com/WalterLugalia/project_education) | Udemy-style online learning app | Flutter, Bloc, Clean Architecture |
 | [**mtindo**](https://github.com/WalterLugalia/mtindo) | Flutter app | Dart |
 
-### 🐍 Contribution snake
+### `> ./run snake.sh`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalterLugalia/WalterLugalia/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WalterLugalia/WalterLugalia/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/WalterLugalia/WalterLugalia/output/github-contribution-grid-snake.svg">
-</picture>
+```bash
+[ OK ] initializing contribution scanner...
+[ OK ] snake process started (pid 1337)
+```
 
-### 📊 GitHub stats
+<img alt="Snake animation" src="https://raw.githubusercontent.com/WalterLugalia/WalterLugalia/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+### `> analyze --languages --activity`
+
+```bash
+[ OK ] scanning repositories...
+[ OK ] parsing language data...
+```
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=WalterLugalia&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterLugalia&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterLugalia&layout=compact&hide_border=false&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&custom_title=%3E%20top_languages.log&hide=cmake,c++,css,scss,html" alt="Top languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WalterLugalia&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&custom_title=%3E%20contribution_graph.log" alt="Contribution graph" width="100%" />
 </p>
 
 ---
 
-<p align="center">💬 Open to Flutter opportunities. Reach out on LinkedIn!</p>
+```bash
+root@walter:~$ contact --method linkedin
+> connection established. let's build something.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer" width="100%" alt="" />
