@@ -52,7 +52,7 @@ Open to Flutter opportunities
 
 <img alt="Snake animation" src="https://raw.githubusercontent.com/WalterLugalia/WalterLugalia/output/github-contribution-grid-snake-dark.svg" width="100%">
 
-### `> analyze --languages --activity`
+### `> analyze --languages`
 
 ```bash
 [ OK ] scanning repositories...
@@ -63,9 +63,15 @@ Open to Flutter opportunities
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterLugalia&layout=compact&hide_border=false&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&custom_title=%3E%20top_languages.log&hide=cmake,c++,css,scss,html" alt="Top languages" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WalterLugalia&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&custom_title=%3E%20contribution_graph.log" alt="Contribution graph" width="100%" />
-</p>
+### `> ./skill_levels.sh`
+
+```bash
+root@walter:~$ ./skill_levels.sh
+Flutter / Dart   [██████████] 100%
+State management [█████████░]  90%
+Clean Arch       [████████░░]  80%
+REST / Firebase  [████████░░]  80%
+```
 
 ---
 
