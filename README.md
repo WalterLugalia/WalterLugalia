@@ -43,14 +43,14 @@ Open to Flutter opportunities
 | [**project_education**](https://github.com/WalterLugalia/project_education) | Udemy-style online learning app | Flutter, Bloc, Clean Architecture |
 | [**mtindo**](https://github.com/WalterLugalia/mtindo) | Flutter app | Dart |
 
-### `> ./run snake.sh`
+### `> ./run space_shooter.sh`
 
 ```bash
-[ OK ] initializing contribution scanner...
-[ OK ] snake process started (pid 1337)
+[ OK ] loading contribution targets...
+[ OK ] weapons armed. engaging.
 ```
 
-<img alt="Snake animation" src="https://raw.githubusercontent.com/WalterLugalia/WalterLugalia/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img alt="Space shooter" src="https://raw.githubusercontent.com/WalterLugalia/WalterLugalia/main/space-shooter.gif" width="100%">
 
 ### `> analyze --languages`
 
