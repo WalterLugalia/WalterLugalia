@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=160&section=header&text=%3E_%20WALTER%20LUGALIA&fontSize=42&fontColor=00FF41&fontAlignY=38&desc=Flutter%20%7C%20Dart%20%7C%20Mobile%20Engineer&descSize=18&descAlignY=60&descColor=FFFFFF" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=160&section=header&text=%3E_%20WALTER%20LUGALIA&fontSize=42&fontColor=00FF41&fontAlignY=38&desc=Flutter%20%7C%20Dart%20%7C%20Mobile%20Application%20Developer&descSize=18&descAlignY=60&descColor=FFFFFF" width="100%" alt="" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=650&height=50&lines=%24+whoami;walter_lugalia+%7C+flutter_developer;%24+cat+skills.txt;dart+%7C+flutter+%7C+clean_architecture;%24+status;open_to_new_opportunities+...;%24+_" alt="Typing animation" />
