@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=160&section=header&text=%3E_%20WALTER%20LUGALIA&fontSize=42&fontColor=00FF41&fontAlignY=38&desc=Flutter%20%7C%20Dart%20%7C%20Mobile%20Application%20Developer&descSize=18&descAlignY=60&descColor=FFFFFF" width="100%" alt="" />
+
 <h1 align="center">Hi, I'm Walter Kifwolo 👋</h1>
 
 <h3 align="center">Flutter & Dart Developer | Mobile Application Developer</h3>
@@ -116,3 +118,5 @@ I am open to Flutter and mobile development roles, and to projects where I can b
 - 💼 LinkedIn: [walter-kifwolo](https://www.linkedin.com/in/walter-kifwolo-4a997426a)
 - 💬 Stack Overflow: [walter-lugalai](https://stackoverflow.com/users/17056651/walter-lugalai)
 - 📍 Nairobi, Kenya
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer" width="100%" alt="" />
