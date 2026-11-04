@@ -1,83 +1,118 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=160&section=header&text=%3E_%20WALTER%20LUGALIA&fontSize=42&fontColor=00FF41&fontAlignY=38&desc=Flutter%20%7C%20Dart%20%7C%20Mobile%20Application%20Developer&descSize=18&descAlignY=60&descColor=FFFFFF" width="100%" alt="" />
+<h1 align="center">Hi, I'm Walter Kifwolo 👋</h1>
+
+<h3 align="center">Flutter & Dart Developer | Mobile Application Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=650&height=50&lines=%24+whoami;walter_lugalia+%7C+flutter_developer;%24+cat+skills.txt;dart+%7C+flutter+%7C+clean_architecture;%24+status;open_to_new_opportunities+...;%24+_" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/walter-kifwolo-4a997426a"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/17056651/walter-lugalai"><img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=00FF41" alt="Stack Overflow" /></a>
+  <a href="https://www.linkedin.com/in/walter-kifwolo-4a997426a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/17056651/walter-lugalai"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
 
 ---
 
-### `> cat about.md`
+## 🚀 About Me
 
-```bash
-root@walter:~$ whoami
-Walter Lugalia, Flutter developer
+I am a Flutter developer based in Nairobi, Kenya, with more than 3 years of hands-on experience building cross-platform mobile apps for Android and iOS with Dart and Flutter.
 
-root@walter:~$ cat profile.txt
-role        : Mobile Application Developer (Android & iOS)
-experience  : 3+ years
-architecture: Clean Architecture
-state_mgmt  : Riverpod | Bloc | Provider
-backend     : REST APIs, Firebase, Supabase
-location    : Nairobi, Kenya
+I build apps that are scalable and easy to maintain. I use Clean Architecture and manage state with Riverpod, Bloc and Provider. I turn UI/UX designs into responsive, user-friendly screens, and I connect apps to REST APIs and third-party services.
 
-root@walter:~$ echo $STATUS
-Open to Flutter opportunities
-```
+I specialize in:
 
-### `> ls ./tech_stack`
+- Cross-platform mobile apps with Flutter and Dart
+- Clean Architecture and clean, maintainable code
+- State management with Riverpod, Bloc and Provider
+- REST API integration and working closely with backend developers
+- Responsive, reusable UI components
+
+---
+
+## 🏆 Key Highlights
+
+| Area | Details |
+|---|---|
+| Experience | 3+ years |
+| Platforms | Android and iOS |
+| Architecture | Clean Architecture |
+| State management | Riverpod, Bloc, Provider |
+| Backend and data | REST APIs, Firebase, Supabase, SQLite, Hive |
+| Teamwork | Agile, Git and GitHub, code reviews, mentoring |
+
+---
+
+## 💼 Professional Experience
+
+### Flutter Developer
+**Giglab Limited** · Oct 2025 – Present · Nairobi, Kenya
+
+- Build cross-platform mobile apps with Flutter and Dart for Android and iOS
+- Connect the app to server-side logic with RESTful APIs, working closely with backend developers
+- Use Riverpod, Bloc and Provider to keep the code scalable and easy to maintain
+- Design reusable, responsive UI components
+- Work with product managers and designers to turn requirements into technical plans
+- Monitor and improve app performance across different devices and screen sizes
+- Take part in architecture discussions and apply security best practices to protect user data
+- Debug and troubleshoot issues to keep the apps stable
+- Review code and mentor a junior developer in Flutter best practices
+
+### Mobile Application Developer
+**Ministry of Information, Communications and The Digital Economy** · Jul 2022 – Sep 2023 · Kenya
+
+- Helped build mobile prototypes with Flutter
+- Fixed bugs and improved app performance, including memory use and network efficiency
+- Helped with user research and usability testing to gather feedback
+- Added analytics tools to track how people use the app
+- Wrote technical documentation and gave technical support during launches
+- Took part in team knowledge-sharing sessions and workshops
+
+---
+
+## 🛠️ Technical Skills
+
+**Mobile**
+Flutter · Dart · Kotlin · Swift · Java
+
+**Architecture and state management**
+Clean Architecture · Riverpod · Bloc · Provider · Agile
+
+**Backend, data and APIs**
+REST API integration · Firebase · Supabase · SQLite · Hive · Node.js · Python
+
+**Design and tools**
+Figma · Adobe XD · Sketch · Git · GitHub
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,sqlite,kotlin,swift,java,py,nodejs,git,github,figma&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,sqlite,kotlin,swift,java,py,nodejs,git,github,figma" alt="Tech stack" />
 </p>
 
-### `> ls ./projects`
+---
 
-| Project | Description | Stack |
+## 🌟 Featured Projects
+
+| Project | Description | Tech stack |
 |---|---|---|
-| 🔒 **Client learning & assessment app** (private) | Published mobile app built for a client. Restructured the codebase for maintainability and fixed local storage issues. Code walkthrough available on request. | Flutter, Hive, REST API |
-| [**project_education**](https://github.com/WalterLugalia/project_education) | Udemy-style online learning app | Flutter, Bloc, Clean Architecture |
-| [**mtindo**](https://github.com/WalterLugalia/mtindo) | Flutter app | Dart |
-
-### `> ./run space_shooter.sh`
-
-```bash
-[ OK ] loading contribution targets...
-[ OK ] weapons armed. engaging.
-```
-
-<img alt="Space shooter" src="https://raw.githubusercontent.com/WalterLugalia/WalterLugalia/main/space-shooter.gif" width="100%">
-
-### `> analyze --languages`
-
-```bash
-[ OK ] scanning repositories...
-[ OK ] parsing language data...
-```
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterLugalia&layout=compact&hide_border=false&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&custom_title=%3E%20top_languages.log&hide=cmake,c++,css,scss,html" alt="Top languages" />
-</p>
-
-### `> ./skill_levels.sh`
-
-```bash
-root@walter:~$ ./skill_levels.sh
-Flutter / Dart   [██████████] 100%
-State management [█████████░]  90%
-Clean Arch       [████████░░]  80%
-REST / Firebase  [████████░░]  80%
-```
+| **Client learning and assessment app** (private) | A published mobile app built for a client. I fixed local storage problems and reworked the app structure so it is easier to maintain. A code walkthrough is available on request. | Flutter, Hive, SharedPreferences, REST API |
+| [**project_education**](https://github.com/WalterLugalia/project_education) | An online learning app inspired by Udemy-style platforms, with course content and a responsive interface. | Flutter, Bloc, Clean Architecture, REST API |
+| [**mtindo**](https://github.com/WalterLugalia/mtindo) | A Flutter mobile app. | Flutter, Dart |
 
 ---
 
-```bash
-root@walter:~$ contact --method linkedin
-> connection established. let's build something.
-```
+## 🌱 Currently Learning
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer" width="100%" alt="" />
+- React and TypeScript for web development
+- Fintech and payments: exploring M-Pesa integration and Safaricom's Daraja API
+- Open source: working towards my first contributions to Flutter and Dart projects
+
+---
+
+## 🎮 Contribution Activity
+
+<img alt="Space shooter animation of my contribution graph" src="https://raw.githubusercontent.com/WalterLugalia/WalterLugalia/main/space-shooter.gif" width="100%">
+
+---
+
+## 🔗 Let's Connect
+
+I am open to Flutter and mobile development roles, and to projects where I can build useful apps.
+
+- 💼 LinkedIn: [walter-kifwolo](https://www.linkedin.com/in/walter-kifwolo-4a997426a)
+- 💬 Stack Overflow: [walter-lugalai](https://stackoverflow.com/users/17056651/walter-lugalai)
+- 📍 Nairobi, Kenya
